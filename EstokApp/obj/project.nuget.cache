@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "dVgSHk7FauI=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\EstokApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512"
+  ],
+  "logs": []
+}
