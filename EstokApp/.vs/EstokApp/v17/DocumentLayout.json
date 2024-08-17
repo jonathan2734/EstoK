@@ -1,7 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD0F7D-9D98-4C94-A4F4-5B44629066FD}|EstokApp.csproj|c:\\users\\aluno\\source\\repos\\estok\\estokapp\\activities\\loginactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD0F7D-9D98-4C94-A4F4-5B44629066FD}|EstokApp.csproj|solutionrelative:activities\\loginactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD0F7D-9D98-4C94-A4F4-5B44629066FD}|EstokApp.csproj|c:\\users\\aluno\\source\\repos\\estok\\estokapp\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD0F7D-9D98-4C94-A4F4-5B44629066FD}|EstokApp.csproj|solutionrelative:mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD0F7D-9D98-4C94-A4F4-5B44629066FD}|EstokApp.csproj|c:\\users\\aluno\\source\\repos\\estok\\estokapp\\baseclasses\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54DD0F7D-9D98-4C94-A4F4-5B44629066FD}|EstokApp.csproj|solutionrelative:baseclasses\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54DD0F7D-9D98-4C94-A4F4-5B44629066FD}|EstokApp.csproj|c:\\users\\aluno\\source\\repos\\estok\\estokapp\\resources\\layout\\activity_login.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{54DD0F7D-9D98-4C94-A4F4-5B44629066FD}|EstokApp.csproj|solutionrelative:resources\\layout\\activity_login.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,15 +26,78 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\MainActivity.cs",
+              "RelativeDocumentMoniker": "MainActivity.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\MainActivity.cs",
+              "RelativeToolTip": "MainActivity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:52:38.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\BaseClasses\\Usuario.cs",
+              "RelativeDocumentMoniker": "BaseClasses\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\BaseClasses\\Usuario.cs",
+              "RelativeToolTip": "BaseClasses\\Usuario.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAwAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:41:01.956Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoginActivity.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\Activities\\LoginActivity.cs",
+              "RelativeDocumentMoniker": "Activities\\LoginActivity.cs",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\Activities\\LoginActivity.cs",
+              "RelativeToolTip": "Activities\\LoginActivity.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwCIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-16T23:21:39.914Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "activity_login.xml",
+              "DocumentMoniker": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\Resources\\layout\\activity_login.xml",
+              "RelativeDocumentMoniker": "Resources\\layout\\activity_login.xml",
+              "ToolTip": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\Resources\\layout\\activity_login.xml",
+              "RelativeToolTip": "Resources\\layout\\activity_login.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-08-16T23:03:09.071Z",
+              "EditorCaption": ""
             }
           ]
         }
