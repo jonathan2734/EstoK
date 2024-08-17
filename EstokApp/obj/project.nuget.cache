@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "V7ICodiflaA=",
+  "dgSpecHash": "6M8YQNYrk3Q=",
   "success": true,
   "projectFilePath": "C:\\Users\\Aluno\\source\\repos\\EstoK\\EstokApp\\EstokApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Aluno\\.nuget\\packages\\firebasedatabase.net\\4.2.0\\firebasedatabase.net.4.2.0.nupkg.sha512",
+    "C:\\Users\\Aluno\\.nuget\\packages\\json.net\\1.0.33\\json.net.1.0.33.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\litedb\\4.1.4\\litedb.4.1.4.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.7\\microsoft.net.illink.tasks.8.0.7.nupkg.sha512",
     "C:\\Users\\Aluno\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",

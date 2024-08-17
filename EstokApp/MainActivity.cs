@@ -10,10 +10,7 @@ namespace EstokApp
         {
             base.OnCreate(savedInstanceState);
 
-            // Set our view from the "main" layout resource
-            SetContentView(Resource.Layout.activity_main);
-
-            Intent intent = new Intent(this, typeof(LoginActivity));
+            Intent intent = new Intent(this, typeof(CadastroNovoUsuarioActivity));
             StartActivity(intent);
         }
     }

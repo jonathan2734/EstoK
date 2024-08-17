@@ -20,6 +20,15 @@
           }
         }
       },
+      "Json.Net/1.0.33": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        }
+      },
       "LiteDB/4.1.4": {
         "type": "package",
         "dependencies": {
@@ -117,6 +126,15 @@
           "lib/netstandard2.0/Firebase.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "Json.Net/1.0.33": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {}
         }
       },
       "LiteDB/4.1.4": {
@@ -218,6 +236,15 @@
           }
         }
       },
+      "Json.Net/1.0.33": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        }
+      },
       "LiteDB/4.1.4": {
         "type": "package",
         "dependencies": {
@@ -315,6 +342,15 @@
           "lib/netstandard2.0/Firebase.dll": {
             "related": ".xml"
           }
+        }
+      },
+      "Json.Net/1.0.33": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {}
         }
       },
       "LiteDB/4.1.4": {
@@ -416,6 +452,15 @@
           }
         }
       },
+      "Json.Net/1.0.33": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.0/Json.Net.dll": {}
+        }
+      },
       "LiteDB/4.1.4": {
         "type": "package",
         "dependencies": {
@@ -509,6 +554,18 @@
         "firebasedatabase.net.nuspec",
         "lib/netstandard2.0/Firebase.dll",
         "lib/netstandard2.0/Firebase.xml"
+      ]
+    },
+    "Json.Net/1.0.33": {
+      "sha512": "5tE+db6BqhRAvITIVBeRsQorLGshPExfm4FmMRvWWAfs4RxeTbFFj2PIEybwmMW0qR30HKkXDYhq0YkDK2Jtxw==",
+      "type": "package",
+      "path": "json.net/1.0.33",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "json.net.1.0.33.nupkg.sha512",
+        "json.net.nuspec",
+        "lib/netstandard2.0/Json.Net.dll"
       ]
     },
     "LiteDB/4.1.4": {
@@ -829,6 +886,7 @@
   "projectFileDependencyGroups": {
     "net8.0-android34.0": [
       "FirebaseDatabase.net >= 4.2.0",
+      "Json.Net >= 1.0.33",
       "Microsoft.NET.ILLink.Tasks >= 8.0.7"
     ]
   },
@@ -885,6 +943,10 @@
           "FirebaseDatabase.net": {
             "target": "Package",
             "version": "[4.2.0, )"
+          },
+          "Json.Net": {
+            "target": "Package",
+            "version": "[1.0.33, )"
           },
           "Microsoft.NET.ILLink.Tasks": {
             "suppressParent": "All",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EstokApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+e9421206ce4ad5b6d4ac33e9d0b63e117f544d66")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+46fe446ce15311f045f156b815b63db883f2cc91")]
 [assembly: System.Reflection.AssemblyProductAttribute("EstokApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EstokApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
